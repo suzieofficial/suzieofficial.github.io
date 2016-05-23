@@ -1,0 +1,14 @@
+.nav {
+  /*background: #FF33FF*/
+  /*background: rgb(231, 208, 186);*/
+  background: #99328D;
+  width: 100%;
+  height: 10px;
+}
+
+.logo-cont {
+  text-align: center;
+}
+.logo {
+  width: 300px;
+}
