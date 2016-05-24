@@ -46,3 +46,19 @@ body {
   width: 25%;
   margin: 2%;
 }
+
+.photos-cont {
+  background-color: #99328D;
+  height: 10%;
+  position: relative;
+  top: 700px;
+  display: flex;
+  justify-content: center;
+}
+
+#photo-gallery {
+  padding: 5%;
+}
+.image {
+  height: 300px;
+}
