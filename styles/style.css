@@ -47,18 +47,20 @@ body {
   margin: 2%;
 }
 
+
 .photos-cont {
   background-color: #99328D;
-  height: 10%;
   position: relative;
-  top: 700px;
+  top: 51vw;
   display: flex;
   justify-content: center;
 }
 
 #photo-gallery {
-  padding: 5%;
+  padding: 2.5%;
+  height: 23vw;
 }
+
 .image {
-  height: 300px;
+  height: 23vw;
 }
