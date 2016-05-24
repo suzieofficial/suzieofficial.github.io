@@ -1,3 +1,15 @@
+body {
+  margin: 0px;
+}
+.background-img {
+  width: 100%;
+  /*-webkit-filter: blur(10px)*/
+  opacity: .80;
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+
 .nav {
   /*background: #FF33FF*/
   /*background: rgb(231, 208, 186);*/
@@ -8,7 +20,27 @@
 
 .logo-cont {
   text-align: center;
+  display: inline-block;
 }
 .logo {
-  width: 300px;
+  width: 25%;
+  position: relative;
+  left: 10%;
+}
+
+.icon-cont {
+  height: 10%;
+  width: 20%;
+  float: right;
+  margin-top: 20px;
+}
+.icons {
+  width: 80%;
+  position: relative;
+
+}
+
+.icon {
+  width: 25%;
+  margin: 2%;
 }
